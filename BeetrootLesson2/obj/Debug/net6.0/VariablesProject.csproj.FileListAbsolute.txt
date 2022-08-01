@@ -1,0 +1,15 @@
+D:\Beetroot\Lesson2\BeetrootLesson2\BeetrootLesson2\bin\Debug\net6.0\VariablesProject.exe
+D:\Beetroot\Lesson2\BeetrootLesson2\BeetrootLesson2\bin\Debug\net6.0\VariablesProject.deps.json
+D:\Beetroot\Lesson2\BeetrootLesson2\BeetrootLesson2\bin\Debug\net6.0\VariablesProject.runtimeconfig.json
+D:\Beetroot\Lesson2\BeetrootLesson2\BeetrootLesson2\bin\Debug\net6.0\VariablesProject.dll
+D:\Beetroot\Lesson2\BeetrootLesson2\BeetrootLesson2\bin\Debug\net6.0\VariablesProject.pdb
+D:\Beetroot\Lesson2\BeetrootLesson2\BeetrootLesson2\obj\Debug\net6.0\VariablesProject.csproj.AssemblyReference.cache
+D:\Beetroot\Lesson2\BeetrootLesson2\BeetrootLesson2\obj\Debug\net6.0\VariablesProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Beetroot\Lesson2\BeetrootLesson2\BeetrootLesson2\obj\Debug\net6.0\VariablesProject.AssemblyInfoInputs.cache
+D:\Beetroot\Lesson2\BeetrootLesson2\BeetrootLesson2\obj\Debug\net6.0\VariablesProject.AssemblyInfo.cs
+D:\Beetroot\Lesson2\BeetrootLesson2\BeetrootLesson2\obj\Debug\net6.0\VariablesProject.csproj.CoreCompileInputs.cache
+D:\Beetroot\Lesson2\BeetrootLesson2\BeetrootLesson2\obj\Debug\net6.0\VariablesProject.dll
+D:\Beetroot\Lesson2\BeetrootLesson2\BeetrootLesson2\obj\Debug\net6.0\refint\VariablesProject.dll
+D:\Beetroot\Lesson2\BeetrootLesson2\BeetrootLesson2\obj\Debug\net6.0\VariablesProject.pdb
+D:\Beetroot\Lesson2\BeetrootLesson2\BeetrootLesson2\obj\Debug\net6.0\VariablesProject.genruntimeconfig.cache
+D:\Beetroot\Lesson2\BeetrootLesson2\BeetrootLesson2\obj\Debug\net6.0\ref\VariablesProject.dll
