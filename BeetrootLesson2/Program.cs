@@ -12,3 +12,4 @@ var daysBeforeNY = daysInYear - daysAfterNY;
 Console.WriteLine($"{daysAfterNY} days passed from New Year\n{daysBeforeNY} days left to New Year");
 Console.WriteLine(new String('*', 28));
 Console.ReadKey();
+//checked
